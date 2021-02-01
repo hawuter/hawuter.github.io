@@ -4,7 +4,7 @@ email:       hjwu@umass.edu
 author:      Hannah Wu
 description: "art portfolio of hannah wu."
 baseurl:     ""
-url:         ""
+url:         "https://hawuter.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
